@@ -1,5 +1,5 @@
 # Supervised Learning Regression.
-Repository Contains Mini projects & Case studies of Supervised Learning Regression. This Repository includes concepts such as Bivariate and Multivariate Regression, Ordinary Least Square Method(OLS), Measures of Variation, Assumptions in Linear Regression model, Model Evaluation and Model performance metrics, Transformation techniques, Feature Engineering, Feature selection, Forward selection, Backward selection, Recursive Feature Elimination, Cross-Validation, K-Fold CV, Gradient Descent, Regualrization methods such as Ridge, Lasso and elastic Net. GridSearch
+Repository Contains Mini projects & Case studies of Supervised Learning Regression. This Repository includes concepts such as Bivariate and Multivariate Regression, Ordinary Least Square Method(OLS), Measures of Variation, Assumptions in Linear Regression model, Model Evaluation and Model performance metrics, Transformation techniques, Feature Engineering, Feature selection, Forward selection, Backward selection, Recursive Feature Elimination, Cross-Validation, K-Fold CV, Gradient Descent, Regualrization methods such as Ridge, Lasso and elastic Net. GridSearchCV.
 # Contents.
    - ### Supervised Learning Regression.
     
